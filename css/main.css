@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding-top: 0;
+}
+.shop-stock{
+    max-width: 1200px;
+    width: 90%;
+    margin: auto;
+}
+.product{
+    text-align: left;
+    height: 180px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 3%;
+}
+.slide p{
+    color: #ffffff;
+}
+.state {
+    display: inline;
+    background-color: rgb(199, 146, 146);
+}
+.slide{
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    background-color: #000000;
+}
+.slide1{
+    background-image: url(../assets/images/35v.png);
+}
+.slide2{
+    background-image: url(../assets/images/bossmood.png);
+}
+.slide3{
+    background-image: url(../assets/images/jc.png);
+}
+.slide4{
+    background-image: url(../assets/images/39.png);
+}
+.slick-prev:before{
+    color:  #000000;
+}
+.slick-next:before{
+    color: #000000;
+}
+footer {
+    background-image: linear-gradient(#49142e, #a53445, #f0605b);
+}
+li {
+    display: inline-block;
+}
